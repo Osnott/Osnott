@@ -1,5 +1,3 @@
-# E
-
-## I try to code sometimes
+# I try to code sometimes
 
 ![Imga](./aBoyDance.gif)![Imga](./aBoyDance.gif)![Imga](./aBoyDance.gif)![Imga](./aBoyDance.gif)
