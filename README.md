@@ -10,4 +10,4 @@ I'm Aivery! I'm a Computer Science student and I attempt projects.
 
 ## Here's my Bad Stats
 
-[![Osnott's GitHub stats](https://github-readme-stats.vercel.app/api?username=osnott)](https://github.com/anuraghazra/github-readme-stats)
+[![Osnott's GitHub stats](https://github-readme-stats.vercel.app/api?username=osnott&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
