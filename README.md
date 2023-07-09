@@ -7,6 +7,7 @@ I'm Aivery! I'm a Computer Science student and I attempt projects.
 - C/C++
 - ARM Assembly
 - GLSL Shaders
+- Rust
 
 ## Here's my Bad Stats
 
