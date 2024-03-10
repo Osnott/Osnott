@@ -2,10 +2,14 @@
 
 I'm Aivery! I'm a Computer Science student and I attempt projects.
 
+## I'm Pretty Good At
+- Java
+- Python
+- Linux/Windows
+
 ## Currently Learning
 - Docker/Containerd
 - C/C++
-- ARM Assembly
 - GLSL Shaders
 - Rust
 
