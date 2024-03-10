@@ -1,6 +1,6 @@
 # Hey :)
 
-I'm Aivery! I'm a Computer Science student and I attempt projects.
+I'm Aivery! I'm a Computer Science student and I attempt projects. Currently fixated on block game.
 
 ## I'm Pretty Good At
 - Java
