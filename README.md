@@ -17,4 +17,5 @@ I'm Aivery! I'm a Computer Science student and I attempt projects. Currently fix
 
 ## Here's my Bad Stats
 
-[![Osnott's GitHub stats](https://github-readme-stats.vercel.app/api?username=osnott&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Osnott's GitHub stats](https://github-readme-stats.vercel.app/api?username=osnott&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Osnott's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osnott&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
