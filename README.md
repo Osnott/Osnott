@@ -6,12 +6,14 @@ I'm Aivery! I'm a Computer Science student and I attempt projects. Currently fix
 - Java
 - Python
 - Linux/Windows
+- C/C++
+- Docker
 
 ## Currently Learning
-- Docker/Containerd
-- C/C++
 - GLSL Shaders
 - Rust
+- Nix
+- Svelte
 
 ## Here's my Bad Stats
 
