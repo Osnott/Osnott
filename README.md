@@ -1,5 +1,13 @@
 # hey :)
 
+---
+
+<p align="center">
+  <img src="hi_banner.gif" alt="animated" />
+</p>
+
+---
+
 i'm aivery! i'm a computer science student and i attempt projects. currently fixated on block game and catan.
 
 ## i'm pretty good at
