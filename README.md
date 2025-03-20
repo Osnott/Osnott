@@ -10,9 +10,13 @@
 
 i'm aivery! i'm a computer science student and i attempt projects. currently fixated on block game and catan.
 
+<div align="center">
+
 | **i know** | **learning** |
 | --- | --- |
 | • Java <br>• Python <br>• Linux/Windows <br>• C/C++ <br>• Docker | • GLSL <br>• Rust <br>• Nix <br>• Svelte/TS |
+
+</div>
 
 ## i'm working on
 
