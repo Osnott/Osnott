@@ -10,20 +10,11 @@
 
 i'm aivery! i'm a computer science student and i attempt projects. currently fixated on block game and catan.
 
-## i'm pretty good at
-- Java
-- Python
-- Linux/Windows
-- C/C++
-- Docker
+| **i know** | **learning** |
+| --- | --- |
+| • Java <br>• Python <br>• Linux/Windows <br>• C/C++ <br>• Docker | • GLSL <br>• Rust <br>• Nix <br>• Svelte/TS |
 
-## currently learning
-- GLSL Shaders
-- Rust
-- Nix
-- Svelte/TS
-
-## working on
+## i'm working on
 
 - school projects in private repos (of course)
 - [nixos](https://github.com/Osnott/nixos)
