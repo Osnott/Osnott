@@ -1,6 +1,4 @@
-# hey :)
-
----
+# hi :)
 
 <p align="center">
   <img src="hi_banner.gif" alt="animated" />
@@ -8,7 +6,9 @@
 
 ---
 
-i'm aivery! i'm a computer science student and i attempt projects. currently fixated on block game and catan.
+## ❓ whoami
+
+<h4 align="center"> i'm aivery! i'm a computer science student and i attempt projects. currently fixated on block game and catan. </h6>
 
 <div align="center">
 
@@ -24,7 +24,11 @@ i'm aivery! i'm a computer science student and i attempt projects. currently fix
 - [nixos](https://github.com/Osnott/nixos)
 - [catan-svelte](https://github.com/Osnott/catan-svelte)
 
-##  here's my bad stats
+## ⭐ here's my bad stats
 
-[![Osnott's GitHub stats](https://github-readme-stats.vercel.app/api?username=osnott&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-[![Osnott's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osnott&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osnott&theme=catppuccin_mocha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osnott&layout=donut&theme=catppuccin_mocha" />
+</div>
+
+
