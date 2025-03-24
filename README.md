@@ -1,7 +1,7 @@
 # hi :)
 
 <p align="center">
-  <img src="hi_banner.gif" alt="animated" />
+  <img src="hi_github_banner.gif" alt="animated" />
 </p>
 
 ---
