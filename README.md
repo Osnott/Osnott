@@ -1,14 +1,14 @@
-# hi :)
+### 👋 hi :)
 
 <p align="center">
   <img src="hi_github_banner.gif" alt="animated" />
 </p>
 
----
+### ❓ whoami
 
-## ❓ whoami
+<h4 align="center"> i'm aivery! i'm a computer science student and i attempt projects. currently fixated on block game and catan. </h4>
 
-<h4 align="center"> i'm aivery! i'm a computer science student and i attempt projects. currently fixated on block game and catan. </h6>
+<br>
 
 <div align="center">
 
@@ -18,17 +18,15 @@
 
 </div>
 
-## 🔭 i'm working on 
+### 🔭 i'm working on 
 
-- school projects in private repos (of course)
 - [nixos](https://github.com/Osnott/nixos)
 - [catan-svelte](https://github.com/Osnott/catan-svelte)
+- school projects in private repos (of course)
 
-## ⭐ here's my bad stats
+### ⭐ here's my bad stats
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=osnott&theme=catppuccin_mocha" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osnott&layout=donut&theme=catppuccin_mocha" />
 </div>
-
-
