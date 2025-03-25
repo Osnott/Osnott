@@ -24,6 +24,11 @@
 - [catan-svelte](https://github.com/Osnott/catan-svelte)
 - school projects in private repos (of course)
 
+### :zap: activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### ⭐ here's my bad stats
 
 <div align="center">
