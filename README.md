@@ -27,6 +27,10 @@
 ### :zap: activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Osnott/nixos/pull/2) in [Osnott/nixos](https://github.com/Osnott/nixos)
+2. 💪 Opened PR [#2](https://github.com/Osnott/nixos/pull/2) in [Osnott/nixos](https://github.com/Osnott/nixos)
+3. 🎉 Merged PR [#1](https://github.com/Osnott/nixos/pull/1) in [Osnott/nixos](https://github.com/Osnott/nixos)
+4. 💪 Opened PR [#1](https://github.com/Osnott/nixos/pull/1) in [Osnott/nixos](https://github.com/Osnott/nixos)
 <!--END_SECTION:activity-->
 
 ### ⭐ here's my bad stats
