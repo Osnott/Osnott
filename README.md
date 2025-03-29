@@ -14,8 +14,8 @@
 
 | **🧠 i know** | **📚 i'm learning** |
 | --- | --- |
-| • Java <br>• Python <br>• Linux/Windows <br>• C/C++ <br>• Docker | • GLSL <br>• Rust <br>• Nix <br>• Svelte/TS |
-
+| ![i know](https://skillicons.dev/icons?i=java,py,linux,c,cpp,lua,neovim,latex,html,js,css,arduino,ableton&perline=5) | ![i'm learning](https://skillicons.dev/icons?i=svelte,nix,ts,rust,vite&perline=5) |
+<!--| • Java <br>• Python <br>• Linux/Windows <br>• C/C++ <br>• Docker | • GLSL <br>• Rust <br>• Nix <br>• Svelte/TS |-->
 </div>
 
 ### 🔭 i'm working on 
