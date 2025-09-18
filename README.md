@@ -32,10 +32,3 @@
 3. 🎉 Merged PR [#1](https://github.com/Osnott/nixos/pull/1) in [Osnott/nixos](https://github.com/Osnott/nixos)
 4. 💪 Opened PR [#1](https://github.com/Osnott/nixos/pull/1) in [Osnott/nixos](https://github.com/Osnott/nixos)
 <!--END_SECTION:activity-->
-
-### ⭐ here's my bad stats
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osnott&theme=catppuccin_mocha" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osnott&layout=donut&theme=catppuccin_mocha" />
-</div>
