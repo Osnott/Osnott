@@ -27,7 +27,7 @@
 ### :zap: activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Osnott/nixos/pull/2) in [Osnott/nixos](https://github.com/Osnott/nixos)
+1. 💪 Opened PR [#1](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/pull/1) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
 2. 💪 Opened PR [#2](https://github.com/Osnott/nixos/pull/2) in [Osnott/nixos](https://github.com/Osnott/nixos)
 3. 🎉 Merged PR [#1](https://github.com/Osnott/nixos/pull/1) in [Osnott/nixos](https://github.com/Osnott/nixos)
 4. 💪 Opened PR [#1](https://github.com/Osnott/nixos/pull/1) in [Osnott/nixos](https://github.com/Osnott/nixos)
