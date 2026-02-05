@@ -27,8 +27,8 @@
 ### :zap: activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/pull/1) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
-2. 💪 Opened PR [#1](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/pull/1) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
-3. 🎉 Merged PR [#1](https://github.com/Osnott/nixos/pull/1) in [Osnott/nixos](https://github.com/Osnott/nixos)
+1. ❗ Opened issue [#2](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/issues/2) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
+2. 🎉 Merged PR [#1](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/pull/1) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
+3. 💪 Opened PR [#1](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/pull/1) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
 4. 💪 Opened PR [#1](https://github.com/Osnott/nixos/pull/1) in [Osnott/nixos](https://github.com/Osnott/nixos)
 <!--END_SECTION:activity-->
