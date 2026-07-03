@@ -27,7 +27,7 @@
 ### :zap: activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/pull/10) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
+1. 🔒 Closed issue [#31](https://github.com/Flare-Event-s-Capstone/fe-api/issues/31) in [Flare-Event-s-Capstone/fe-api](https://github.com/Flare-Event-s-Capstone/fe-api)
 2. 💪 Opened PR [#10](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/pull/10) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
 3. 🎉 Merged PR [#7](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/pull/7) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
 4. 💪 Opened PR [#7](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype/pull/7) in [Flare-Event-s-Capstone/flare-chat-prototype](https://github.com/Flare-Event-s-Capstone/flare-chat-prototype)
